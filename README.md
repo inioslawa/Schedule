@@ -1,8 +1,47 @@
 # Schedule
-## 1/16 - 1/19 (snow days)
+
+## 2/12 - 2/16 (way over 40h)
+* UAS review - 0% (!)
+* UAS course 
+  * teaching - 10%
+		* meeting with students - 5%
+		* grading - 20%
+  * preping - 5%
+  * website and making lectures - 20%
+* computer struggles - stopped counting
+* UAS data processing (for the class)- 15%
+* meetings - 15%
+
+## 2/5 - 2/9 (over 40h)
+* UAS review - 10%
+* UAS course 
+  * teaching - 10%
+		* meeting with students - 10%
+		* grading - 15%
+		* UAS flight - 10%
+  * preping - 10%
+  * website and making lectures - 10%
+* computer struggles - 15%
+* UAS data processing- 5%
+* meetings - 10%
+
+## 1/29 - 2/02 
+* UAS review - 10%
+* UAS course 
+  * teaching - 10%
+  * preping - 10%
+  * recording lectures - 15%
+		* grading - 20%
+  * website and making lectures - 15%
+		* meeting with students - 15%
+* computer struggles - 5%
+* meetings - 10%
+
+## 1/22 - 1/26 (snow days)
 * NCDOT meeting - 20 %
 * teaching - 20%
-* recording lectures - 60%
+	* recording lectures - 60%
+
 ## 1/8 - 1/11
 * UAS review - 10%
 * UAS course 
