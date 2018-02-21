@@ -1,6 +1,7 @@
 # Schedule
 
-## 2/12 - 2/16 (way over 40h)
+## 2/12 - 2/16 
+(way over 40h)
 * UAS review - 0% (!)
 * UAS course 
   * teaching - 10%
@@ -12,7 +13,8 @@
 * UAS data processing (for the class)- 15%
 * meetings - 15%
 
-## 2/5 - 2/9 (over 40h)
+## 2/5 - 2/9
+(over 40h)
 * UAS review - 10%
 * UAS course 
   * teaching - 10%
